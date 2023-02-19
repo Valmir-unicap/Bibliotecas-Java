@@ -52,7 +52,7 @@ public class Main {
         System.out.println("Inserção efetuada!");
     }
 
-    public static void adicionarFinal(LinkedList<String> trabalho){//adicionar no inicio
+    public static void adicionarFinal(LinkedList<String> trabalho){//adicionar no final
         Scanner in = new Scanner(System.in);
         String nome;
         System.out.print("Digite o nome da tarefa: ");
