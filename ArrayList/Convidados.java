@@ -5,7 +5,7 @@ public class estudoArrayList {
     public static void main(String[]args){
         Scanner in = new Scanner(System.in);
         ArrayList<String> nomes = new ArrayList<String>();
-        System.out.println("Lista de convidados");
+        System.out.println("Convidados da festa");
         int escolha;
         do{
             menu();
