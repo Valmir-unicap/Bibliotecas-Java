@@ -2,3 +2,4 @@
 
 ## Conteúdo visto
 - ArrayList
+- LinkedList
