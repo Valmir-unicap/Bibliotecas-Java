@@ -3,4 +3,4 @@
 ## Conteúdo visto
 - ArrayList
 - LinkedList
-- Collections (BinarySearch and Sort)
+- Collections (BinarySearch e Sort)
