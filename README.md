@@ -4,6 +4,7 @@
 - ArrayList
 - LinkedList
 - Collections (BinarySearch e Sort)
+- Stack
 
 ## Site de apoio
 
