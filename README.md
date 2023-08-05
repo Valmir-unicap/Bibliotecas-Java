@@ -5,6 +5,7 @@
 - LinkedList
 - Collections (BinarySearch e Sort)
 - Stack
+- HashMap
 
 ## Site de apoio
 
