@@ -1,4 +1,4 @@
-//package estudoHashMap;
+package estudoHashMap;
 import java.util.HashMap;
 import java.util.Scanner;
 public class estudoHashMap {
