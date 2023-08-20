@@ -1,7 +1,7 @@
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
-public class treePV {
+public class hoje {
     public static void main(String[] args) {
         System.out.println("=============================================================");
         System.out.println("                           Hoje                              ");
@@ -30,5 +30,6 @@ public class treePV {
         DateTimeFormatter formatoMes = DateTimeFormatter.ofPattern("MMM");
         String mes = dia.format(formatoMes);
         System.out.println("Mes por extenso: "+mes);
+        System.out.println("=============================================================");
     }
 }
