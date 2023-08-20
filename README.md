@@ -7,6 +7,9 @@
 - Stack
 - HashMap
 - ArrayDeque
+- DateTimeFormatter
+- LocalDateTime
+- DateTimeFormatter
 
 ## Site de apoio
 
