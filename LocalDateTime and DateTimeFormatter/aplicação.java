@@ -19,12 +19,16 @@ public class treePV {
         String hojeMillisegundos = dia.format(millisegundos);
         System.out.println("Millisegundos: "+hojeMillisegundos);
         System.out.println("=============================================================");
+        DateTimeFormatter nanosSegundos = DateTimeFormatter.ofPattern("ns");
+        String nano = dia.format(nanosSegundos);
+        System.out.println("Nanossegundos: "+nano);
+        System.out.println("=============================================================");
         DateTimeFormatter diaSemana = DateTimeFormatter.ofPattern("E");
         String semana = dia.format(diaSemana);
         System.out.println("Dia da semana: "+semana);
         System.out.println("=============================================================");
         DateTimeFormatter formatoMes = DateTimeFormatter.ofPattern("MMM");
         String mes = dia.format(formatoMes);
-        System.out.println("Mes: "+mes);
+        System.out.println("Mes por extenso: "+mes);
     }
 }
