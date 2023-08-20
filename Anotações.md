@@ -3,3 +3,12 @@ A classe ArrayList possui um array regular dentro dela. Quando um elemento é ad
 
 # Como funciona a LinkedList
 A LinkedList armazena seus itens em "containers". A lista tem um link para o primeiro contêiner e cada contêiner tem um link para o próximo contêiner na lista. Para adicionar um elemento à lista, o elemento é colocado em um novo contêiner e esse contêiner é vinculado a um dos outros contêineres da lista.
+
+# Como funciona HashMap
+É praticamente uma tabela, onde você acessa atráves da chave.
+
+# Como funciona LocalDateTime
+Representa uma data e uma hora juntos. (yyyyy-MM-dd-HH-mm-ss-ns)
+
+# Como funciona DateTimeFormatter
+Formatador para exibição e análise de objetos de data e hora.
