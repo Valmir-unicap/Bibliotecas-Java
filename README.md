@@ -6,6 +6,7 @@
 - Collections (BinarySearch e Sort)
 - Stack
 - HashMap
+- HashSet
 - ArrayDeque
 - DateTimeFormatter
 - LocalDateTime
