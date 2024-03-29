@@ -7,8 +7,17 @@ A LinkedList armazena seus itens em "containers". A lista tem um link para o pri
 # Como funciona HashMap
 É praticamente uma tabela, onde você acessa atráves da chave.
 
+# Como funciona HashSet
+É uma coleção de itens onde cada item é único, logo não pode ter itens iguais.
+
 # Como funciona LocalDateTime
 Representa uma data e uma hora juntos. (yyyyy-MM-dd-HH-mm-ss-ns)
 
 # Como funciona DateTimeFormatter
 Formatador para exibição e análise de objetos de data e hora.
+
+# ArrayDeque
+É uma estrutura do tipo FIFO. (Primeiro que entra é o primeiro quem sai).
+
+# Stack
+É uma estrutura do tipo Lifo. (Primeiro que entra é o último quem sai).
