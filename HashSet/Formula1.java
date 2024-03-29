@@ -6,9 +6,6 @@ public class Formula1 {
             System.out.println("Equipe vázia! Inserção efetuada!");
             equipe.add(piloto);
 
-        } else if (equipe.contains(piloto)){
-                System.out.println("Piloto já está na equipe! Inserção não efetuada!");
-
         }else{
             equipe.add(piloto);
             System.out.println("Inserção efetuada!");
